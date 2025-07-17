@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: posa aqui el link de la teva web
